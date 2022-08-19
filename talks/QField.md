@@ -10,6 +10,10 @@ theme: custom-theme
 
 ---
 
+OPENGIS.ch 
+
+--- 
+
 ![w: 100% h:30%](./assets/social_distancing_love_os.png)
 
 #### Open source Geoninjas
@@ -21,28 +25,33 @@ MSc in Geography @ Uni Bern
 GIS Expert
 Mountain Lover and Mother
 
-###### David Signer
-BSc in Software Engineering @ ZHAW
-Coordinator and QGIS Core Comitter
-Dreamer and Storyteller
+###### Ivan Ivanov
+xxx
+
+###### Mario Baranzini
+BSc in Computer Science
+CAS in Software Engineering
+Developer, Consultant, Teacher
+Runner, father, Tinkerer
 
 ![bg right 40%](assets/lindadave.png)
 
 ---
 
-### Teil 1 ☕
-- Über QField (Präsi)
-- Konfiguration auf QGIS (Demo)
-- QField Cloud (Demo)
-- Arbeiten mit QField (Demo)
+### Part 1 
+- About QField (presentation)
+- Configuration in QGIS (demo)
+- QField Cloud (demo)
+- Working with QField (demo)
 
 ---
 
-### Teil 2 🌲
-- Let's play (Übungen draussen)
-- Synchronisation (Demo / Übung)
-- Weitere Features von QField (Demo)
-- Schluss und Fragen
+### Part 2 
+- Let's play (exercise)
+- Synchronisation (demo / exercise)
+- More QField Features (demo)
+- Conclusion and Questions
+  
 ---
 
 
@@ -204,9 +213,9 @@ Dreamer and Storyteller
 ### QFieldCloud with DB
 
 ---
-### So let's cloud!
+### So let's Cloud!
 
-#### With Teams, roles and conflict management.
+#### With Teams, roles and conflict management
 ---
 
 ## QField Feature Frenzy

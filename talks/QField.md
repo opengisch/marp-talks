@@ -9,7 +9,7 @@ theme: custom-theme
 ## Because data is outside
 
 ---
-
+![bg](.assets/openGIS-logo-round-green-no-text-bg-cut-white.svg)
 OPENGIS.ch 
 
 --- 
@@ -32,7 +32,7 @@ xxx
 BSc in Computer Science
 CAS in Software Engineering
 Developer, Consultant, Teacher
-Runner, father, Tinkerer
+Runner, Father, Tinkerer
 
 ![bg right 40%](assets/lindadave.png)
 
@@ -40,7 +40,7 @@ Runner, father, Tinkerer
 
 ### Part 1 
 - About QField (presentation)
-- Configuration in QGIS (demo)
+- Configuration in QGIS (exercise / demo)
 - QField Cloud (demo)
 - Working with QField (demo)
 
@@ -54,6 +54,41 @@ Runner, father, Tinkerer
   
 ---
 
+![bg](./assets/bumblebee.jpg)
+
+##### Bumblebee
+##### 400k downloads
+##### 110k monthly users
+
+---
+
+![bg](./assets/ipad_crop.jpg)
+
+##### QField on Android
+##### > Google Playstore
+
+--- 
+![bg](./assets/windows_crop.jpg)
+
+##### QField on Windows
+
+---
+
+![bg](./assets/ipad_crop.jpg)
+
+##### QField on iOS
+
+---
+
+![bg](./assets/ipad_crop.jpg)
+
+##### qfield.org/get
+
+---
+
+##### qfield.cloud > Register
+
+---
 
 ## Why
 # QField ?
@@ -120,33 +155,6 @@ Runner, father, Tinkerer
 ##### QFieldCloud
 
 ---
-
-![bg](./assets/windows_crop.jpg)
-
-##### QField on Windows
-
----
-
-![bg](./assets/ipad_crop.jpg)
-
-##### QField on iOS
-
----
-
-![bg](./assets/ipad_crop.jpg)
-
-##### qfield.org/get
-
----
-
-![bg](./assets/bumblebee.jpg)
-
-##### Bumblebee
-##### 400k downloads
-##### 110k monthly users
-
----
-
 
 ## How to work with
 # QField ?

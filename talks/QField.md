@@ -9,8 +9,11 @@ theme: custom-theme
 ## Because data is outside
 
 ---
-![bg](.assets/openGIS-logo-round-green-no-text-bg-cut-white.svg)
-OPENGIS.ch 
+![bg left:33% 60%](assets/openGIS-logo.svg)
+
+#### OPENGIS.ch
+###### Open source Geo-spatial Experts **in your language**
+
 
 --- 
 

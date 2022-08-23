@@ -25,8 +25,12 @@ MSc in Geography @ Uni Bern
 GIS Expert
 Mountain Lover and Mother
 
+
 ###### Ivan Ivanov
-xxx
+BSc in Geography
+Developer
+Geographer and Outdoor Lover
+
 
 ###### Mario Baranzini
 BSc in Computer Science
@@ -34,7 +38,7 @@ CAS in Software Engineering
 Developer, Consultant, Teacher
 Runner, Father, Tinkerer
 
-![bg right 40%](assets/lindadave.png)
+![bg right:40% 40%](assets/linda_ivan_mario.png)
 
 ---
 

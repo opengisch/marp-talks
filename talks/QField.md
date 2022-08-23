@@ -41,7 +41,7 @@ theme: custom-theme
 
 ---
 
-![bg](./assets/qfield_canvas.jpeg)
+![bg](./assets/qfield_canvas.png)
 
 ##### Minimalist UI
 
@@ -53,19 +53,19 @@ theme: custom-theme
 
 ---
 
-![bg](./assets/powerful.jpeg)
+![bg](./assets/powerful.png)
 
 ##### Powerful tools
 
 ---
 
-![bg](./assets/efficient.jpeg)
+![bg](./assets/efficient.png)
 
 ##### Efficient interaction
 
 ---
 
-![bg](./assets/integrated.jpeg)
+![bg](./assets/integrated.png)
 
 ##### Beneficial integrations
 
@@ -77,7 +77,7 @@ theme: custom-theme
 
 ---
 
-![bg](./assets/cloud.jpeg)
+![bg](./assets/cloud.png)
 
 ##### QFieldCloud
 
@@ -100,7 +100,7 @@ theme: custom-theme
 
 ---
 
-![bg](./assets/qfield_cloud_synchronize.jpg)
+![bg](./assets/qfield_cloud_synchronize.png)
 
 ##### Seamlessly synchronise
 

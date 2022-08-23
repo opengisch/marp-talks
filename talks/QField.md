@@ -93,7 +93,10 @@ Runner, Father, Tinkerer
 
 ---
 
-##### qfield.cloud > Register
+![w: 100% h:30%](./assets/qfieldcloud.svg)
+##### https://qfield.cloud
+
+##### Register now!
 
 ---
 

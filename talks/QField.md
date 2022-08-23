@@ -8,13 +8,6 @@ theme: custom-theme
 # QField
 ## Because data is outside
 
----
-![bg left:33% 60%](assets/openGIS-logo.svg)
-
-#### OPENGIS.ch
-###### Open source Geo-spatial Experts **in your language**
-
-
 --- 
 
 ![w: 100% h:30%](./assets/social_distancing_love_os.png)

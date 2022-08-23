@@ -122,43 +122,43 @@ Runner, Father, Tinkerer
 
 ---
 
-![bg](./assets/qfield_canvas.jpeg)
+![bg 90%](./assets/qfield_canvas.jpeg)
 
 ##### Minimalist UI
 
 ---
 
-![bg](./assets/qfield_tec_green.jpg)
+![bg 90%](./assets/qfield_tec_green.jpg)
 
 ##### Beautiful cartography
 
 ---
 
-![bg](./assets/powerful.jpeg)
+![bg 90%](./assets/powerful.jpeg)
 
 ##### Powerful tools
 
 ---
 
-![bg](./assets/efficient.jpeg)
+![bg 90%](./assets/efficient.jpeg)
 
 ##### Efficient interaction
 
 ---
 
-![bg](./assets/integrated.jpeg)
+![bg 90%](./assets/integrated.jpeg)
 
 ##### Beneficial integrations
 
 ---
 
-![bg](./assets/qfield_trimble.jpeg)
+![bg 90%](./assets/qfield_trimble.jpeg)
 
 ##### Professional hardware
 
 ---
 
-![bg](./assets/cloud.jpeg)
+![bg right:40% 50%](./assets/cloud.jpeg)
 
 ##### QFieldCloud
 
@@ -181,7 +181,7 @@ Runner, Father, Tinkerer
 
 ---
 
-![bg](./assets/qfield_cloud_synchronize.jpg)
+![bg 90%](./assets/qfield_cloud_synchronize.jpg)
 
 ##### Seamlessly synchronise
 

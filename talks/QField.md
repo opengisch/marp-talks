@@ -3,6 +3,7 @@ marp: true
 title: QField
 description: QField Feature presentation
 theme: custom-theme
+paginate: true
 ---
 
 # QField

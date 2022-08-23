@@ -59,9 +59,9 @@ Runner, Father, Tinkerer
   
 ---
 
-![bg](./assets/bumblebee.jpg)
+![bg](./assets/capibara.jpg)
 
-##### Bumblebee
+##### Capybara
 ##### 500k+ downloads
 ##### 178k+ monthly users
 

@@ -122,7 +122,7 @@ Runner, Father, Tinkerer
 
 ---
 
-![bg 90%](./assets/qfield_canvas.jpeg)
+![bg 90%](./assets/qfield_canvas.png)
 
 ##### Minimalist UI
 
@@ -134,19 +134,19 @@ Runner, Father, Tinkerer
 
 ---
 
-![bg 90%](./assets/powerful.jpeg)
+![bg 90%](./assets/powerful.png)
 
 ##### Powerful tools
 
 ---
 
-![bg 90%](./assets/efficient.jpeg)
+![bg 90%](./assets/efficient.png)
 
 ##### Efficient interaction
 
 ---
 
-![bg 90%](./assets/integrated.jpeg)
+![bg 90%](./assets/integrated.png)
 
 ##### Beneficial integrations
 
@@ -158,7 +158,7 @@ Runner, Father, Tinkerer
 
 ---
 
-![bg right:40% 50%](./assets/cloud.jpeg)
+![bg right:40% 80%](./assets/cloud.png)
 
 ##### QFieldCloud
 
@@ -181,7 +181,7 @@ Runner, Father, Tinkerer
 
 ---
 
-![bg 90%](./assets/qfield_cloud_synchronize.jpg)
+![bg 90%](./assets/qfield_cloud_synchronize.png)
 
 ##### Seamlessly synchronise
 

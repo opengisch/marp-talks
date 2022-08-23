@@ -57,8 +57,8 @@ Runner, Father, Tinkerer
 ![bg](./assets/bumblebee.jpg)
 
 ##### Bumblebee
-##### 400k downloads
-##### 110k monthly users
+##### 500k+ downloads
+##### 178k+ monthly users
 
 ---
 

@@ -44,6 +44,8 @@ Runner, Father, Tinkerer
 - QField Cloud (demo)
 - Working with QField (demo)
 
+![bg right:30% 80%](assets/qfield-logo.svg)
+
 ---
 
 ### Part 2 
@@ -51,6 +53,8 @@ Runner, Father, Tinkerer
 - Synchronisation (demo / exercise)
 - More QField Features (demo)
 - Conclusion and Questions
+
+![bg right:30% 80%](assets/qfield-logo.svg)
   
 ---
 
